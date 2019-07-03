@@ -5,7 +5,7 @@ import StreamDelete from './streams/StreamDelete';
 import StreamList from './streams/StreamList';
 import StreamShow from './streams/StreamShow';
 import Header from './Header';
-import { BrowserRouter, Route, Link } from 'react-router-dom';
+import { BrowserRouter, Route } from 'react-router-dom';
 
 const App = () => {
     return (

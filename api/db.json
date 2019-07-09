@@ -1,14 +1,10 @@
 {
   "streams": [
     {
-      "title": "First stream",
-      "description": "updated",
-      "id": 1
-    },
-    {
-      "title": "First stream",
-      "description": "test streams",
-      "id": 2
+      "title": "fourth stream",
+      "description": "4th stream",
+      "userId": "118280693432272489793",
+      "id": 4
     }
   ]
 }

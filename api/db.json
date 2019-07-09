@@ -2,12 +2,12 @@
   "streams": [
     {
       "title": "First stream",
-      "description": "test stream",
+      "description": "updated",
       "id": 1
     },
     {
       "title": "First stream",
-      "description": "test stream",
+      "description": "test streams",
       "id": 2
     }
   ]
